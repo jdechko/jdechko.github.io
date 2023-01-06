@@ -50,6 +50,7 @@ body {
   .column.side, .column.middle {
     width: 100%;
   }
+}
 
 img.rounded {
   object-fit: cover;
