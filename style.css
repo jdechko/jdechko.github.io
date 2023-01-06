@@ -11,11 +11,11 @@ img.rounded {
 
 body {
   font-family: Helvetica Neue, Arial, sans-serif;
+  background-color: #f1f1f1;
 }
 
 /* Style the header */
 .header {
-  background-color: #f1f1f1;
   padding: 30px;
   text-align: left;
   font-size: 35px;
@@ -46,7 +46,6 @@ body {
 
 /* Style the footer */
 .footer {
-  background-color: #f1f1f1;
   padding: 10px;
   text-align: center;
 }
