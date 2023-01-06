@@ -1,3 +1,4 @@
+<style>
 .image-cropper {
   width: 100px;
   height: 100px;
@@ -12,11 +13,8 @@ img {
   height: 100%;
   width: auto;
 }
+</style>
 
-#<link rel=”stylesheet” type=”text/css” href=”style.css”>
-<div class=image-cropper>
-   <img src="E_220324_Dechko_Jonathan_N3.jpg" class="rounded">
-</div>
 
 # Hello
 
