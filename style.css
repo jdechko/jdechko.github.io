@@ -1,3 +1,10 @@
+img.rounded {
+  object-fit: cover;
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+}
+
 * {
   box-sizing: border-box;
 }
@@ -49,11 +56,4 @@ body {
   .column.side, .column.middle {
     width: 100%;
   }
-}
-
-img.rounded {
-  object-fit: cover;
-  border-radius: 50%;
-  height: 150px;
-  width: 150px;
 }
