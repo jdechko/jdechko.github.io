@@ -47,7 +47,7 @@ body {
 /* Style the footer */
 .footer {
   padding: 10px;
-  text-align: center;
+  text-align: left;
 }
 
 /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
