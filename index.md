@@ -1,6 +1,7 @@
 <link rel=”stylesheet” type=”text/css” href=”style.css”>
+<img src="E_220324_Dechko_Jonathan_N3.jpg" class="rounded">
 
-![Alt text](/E_220324_Dechko_Jonathan_N3.jpg "Optional title")
+E_220324_Dechko_Jonathan_N3.jpg
 # Hello
 
 Welcome to my site.
