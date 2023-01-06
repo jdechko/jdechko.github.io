@@ -16,9 +16,9 @@ body {
 
 /* Style the header */
 .header {
-  padding: 30px;
+  padding: 10px;
   text-align: left;
-  font-size: 35px;
+  font-size: 28px;
 }
 
 /* Create three unequal columns that floats next to each other */
